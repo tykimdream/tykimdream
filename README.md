@@ -12,5 +12,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center">
+  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tykimdream&show_icons=true&theme=radical)
+![tykimdream's github stats](https://github-readme-stats.vercel.app/api?username=tykimdream&show_icons=true&theme=prussian)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=tykimdream)
+  
+  
+  [![tykimdream's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tykimdream&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/tykimdream)
+  
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftykimdream&count_bg=%237CB252&title_bg=%23555555&icon=baidu.svg&icon_color=%23D55E5E&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+</div>
