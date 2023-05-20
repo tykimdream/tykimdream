@@ -12,7 +12,7 @@
   </div>
   
   <div key="1">
-    <img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=misso88 width="280" height="140" alt="baekjoon" />
+    <img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=tykimdream width="280" height="140" alt="baekjoon" />
     <img src=http://mazandi.herokuapp.com/api?handle=tykimdream&theme=warm width="285" height="140" alt="solved" />
   </div>
   
