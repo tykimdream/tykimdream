@@ -67,7 +67,6 @@
           <h3 style ="font-size : 1.5em; font-weight:700;">
           안녕하세요.
           </h3>
-          <p style ="font-size : 20px;">개발을 재밌어하는 프론트엔드 개발자입니다~~~</p>
     </div>
   </div>
   
