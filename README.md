@@ -25,24 +25,96 @@
   </div>
   
   <div key="4">
-  <h3 style ="font-size : 2em; font-weight:700;">🍀Tech Stack🍀</h3>
-    <div ><h3 key=0 style ="font-size : 1.5em; font-weight:700;">Language</h3><div "><img
-          key=451035.5819667104
+   <h3 style ="font-size : 2em; font-weight:700;">🍀Tech Stack🍀</h3>
+    <div ><h3 key=0 style ="font-size : 1.5em; font-weight:700;">Front-end</h3><div "><img
+          key=400069.7175827708
+          style = "margin: 5px 5px;"
+          src=https://img.shields.io/badge/javascript-f1e05a?style=flat&logo=javascript&logoColor=white
+          alt=""
+        /> <img
+          key=530422.4198346423
           style = "margin: 5px 5px;"
           src=https://img.shields.io/badge/typescript-31859c?style=flat&logo=typescript&logoColor=white
           alt=""
         /> <img
-          key=718859.4430009709
+          key=728909.2829016014
+          style = "margin: 5px 5px;"
+          src=https://img.shields.io/badge/html5-e44b23?style=flat&logo=html5&logoColor=white
+          alt=""
+        /> <img
+          key=674891.8184379778
+          style = "margin: 5px 5px;"
+          src=https://img.shields.io/badge/css-563d7c?style=flat&logo=css&logoColor=white
+          alt=""
+        /> <img
+          key=538419.1401725815
+          style = "margin: 5px 5px;"
+          src=https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white
+          alt=""
+        /> <img
+          key=182973.445786954
           style = "margin: 5px 5px;"
           src=https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white
           alt=""
         /> <img
-          key=749612.7089517893
+          key=969077.9736312556
           style = "margin: 5px 5px;"
-          src=https://img.shields.io/badge/javascript-f1e05a?style=flat&logo=javascript&logoColor=white
+          src=https://img.shields.io/badge/next.js-000000?style=flat&logo=next.js&logoColor=white
           alt=""
-        /></div></div>
-  </div>
+        /></div><h3 key=1 style ="font-size : 1.5em; font-weight:700;">Back-end</h3><div "><img
+          key=280181.31470125855
+          style = "margin: 5px 5px;"
+          src=https://img.shields.io/badge/java-b07219?style=flat&logo=java&logoColor=white
+          alt=""
+        /> <img
+          key=126207.18072140837
+          style = "margin: 5px 5px;"
+          src=https://img.shields.io/badge/php-4f5d95?style=flat&logo=php&logoColor=white
+          alt=""
+        /> <img
+          key=446291.9641793436
+          style = "margin: 5px 5px;"
+          src=https://img.shields.io/badge/c-555?style=flat&logo=c&logoColor=white
+          alt=""
+        /> <img
+          key=437744.6724432938
+          style = "margin: 5px 5px;"
+          src=https://img.shields.io/badge/python-3581ba?style=flat&logo=python&logoColor=white
+          alt=""
+        /> <img
+          key=17712.34013617513
+          style = "margin: 5px 5px;"
+          src=https://img.shields.io/badge/node.js-339933?style=flat&logo=node.js&logoColor=white
+          alt=""
+        /> <img
+          key=637881.9337059885
+          style = "margin: 5px 5px;"
+          src=https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white
+          alt=""
+        /> <img
+          key=638588.1497452474
+          style = "margin: 5px 5px;"
+          src=https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white
+          alt=""
+        /></div><h3 key=2 style ="font-size : 1.5em; font-weight:700;">Tools</h3><div "><img
+          key=385013.71808301215
+          style = "margin: 5px 5px;"
+          src=https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white
+          alt=""
+        /> <img
+          key=990056.9834220919
+          style = "margin: 5px 5px;"
+          src=https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white
+          alt=""
+        /> <img
+          key=524675.8102319523
+          style = "margin: 5px 5px;"
+          src=https://img.shields.io/badge/jirasoftware-0052CC?style=flat&logo=jirasoftware&logoColor=white
+          alt=""
+        /></div>
+</div>
+
+
   
   <div key="5">
     <h3 style ="font-size : 2em; font-weight:700;">💙Contact💙</h3>
