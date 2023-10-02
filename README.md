@@ -114,8 +114,6 @@
         /></div>
 </div>
 
-
-  
   <div key="5">
     <h3 style ="font-size : 2em; font-weight:700;">💙Contact💙</h3>
     <div className=Preview_contactBadgeDiv__3demU>
@@ -137,7 +135,8 @@
   <div key="7" >
     <div key=0 >
           <h3 style ="font-size : 1.5em; font-weight:700;">
-          안녕하세요.
+          안녕하세요. oreuda 개발자 김지환입니다. <br>
+          이 프로필은 <a href="https://oreuda.kr/landing" target="_blank">https://oreuda.kr</a> 에 의해 작성되었습니다.
           </h3>
     </div>
   </div>
