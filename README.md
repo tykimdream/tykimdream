@@ -26,7 +26,14 @@
   
   <div key="4">
    <h3 style ="font-size : 2em; font-weight:700;">🍀Tech Stack🍀</h3>
-    <div ><h3 key=0 style ="font-size : 1.5em; font-weight:700;">Front-end</h3><div "><img
+    <div ><h3 key=0 style ="font-size : 1.5em; font-weight:700;">Front-end</h3><div ">
+      <img
+          key=728909.2829016014
+          style = "margin: 5px 5px;"
+          src=https://img.shields.io/badge/html5-e44b23?style=flat&logo=html5&logoColor=white
+          alt=""
+        />
+      <img
           key=400069.7175827708
           style = "margin: 5px 5px;"
           src=https://img.shields.io/badge/javascript-f1e05a?style=flat&logo=javascript&logoColor=white
@@ -36,17 +43,16 @@
           style = "margin: 5px 5px;"
           src=https://img.shields.io/badge/typescript-31859c?style=flat&logo=typescript&logoColor=white
           alt=""
-        /> <img
-          key=728909.2829016014
-          style = "margin: 5px 5px;"
-          src=https://img.shields.io/badge/html5-e44b23?style=flat&logo=html5&logoColor=white
-          alt=""
-        /> <img
+        />
+      <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
+       <img
           key=674891.8184379778
           style = "margin: 5px 5px;"
           src=https://img.shields.io/badge/css-563d7c?style=flat&logo=css&logoColor=white
           alt=""
-        /> <img
+        /> 
+      <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
+      <img
           key=538419.1401725815
           style = "margin: 5px 5px;"
           src=https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white
@@ -61,7 +67,9 @@
           style = "margin: 5px 5px;"
           src=https://img.shields.io/badge/next.js-000000?style=flat&logo=next.js&logoColor=white
           alt=""
-        /></div><h3 key=1 style ="font-size : 1.5em; font-weight:700;">Back-end</h3><div "><img
+        />
+    </div><h3 key=1 style ="font-size : 1.5em; font-weight:700;">Back-end</h3><div ">
+      <img
           key=280181.31470125855
           style = "margin: 5px 5px;"
           src=https://img.shields.io/badge/java-b07219?style=flat&logo=java&logoColor=white
@@ -96,22 +104,25 @@
           style = "margin: 5px 5px;"
           src=https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white
           alt=""
-        /></div><h3 key=2 style ="font-size : 1.5em; font-weight:700;">Tools</h3><div "><img
-          key=385013.71808301215
+        /></div>
+      </div><h3 key=1 style ="font-size : 1.5em; font-weight:700;">DB</h3><div ">
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+      </div>
+    <h3 key=2 style ="font-size : 1.5em; font-weight:700;">Tools</h3><div ">
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+      <img key=385013.71808301215
           style = "margin: 5px 5px;"
           src=https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white
           alt=""
-        /> <img
-          key=990056.9834220919
-          style = "margin: 5px 5px;"
-          src=https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white
-          alt=""
-        /> <img
-          key=524675.8102319523
+        />
+      <img key=524675.8102319523
           style = "margin: 5px 5px;"
           src=https://img.shields.io/badge/jirasoftware-0052CC?style=flat&logo=jirasoftware&logoColor=white
           alt=""
-        /></div>
+        />
+        </div>
 </div>
 
   <div key="5">
