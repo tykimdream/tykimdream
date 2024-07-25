@@ -2,7 +2,7 @@
 <!-- font-size 를 조절하면 원하는 크기로 글자를 조절할 수 있습니다.-->
   <!-- Designed and developed in-house at Oreuda (https://oreuda.kr) -->
   <!-- 불편 사항 및 문의는 tykimdream@gmail.com으로 보내주세요 -->
-  <div key="6">
+ <!-- <div key="6">
     <a href = "https://oreuda.kr/">
       <img
         src=https://oreuda.kr/api/v1/plant/card?nickname=tykimdream
@@ -10,7 +10,7 @@
       />
     </a>
   </div>
-  
+  -->
   <div key="1">
     <img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=tykimdream width="280" height="140" alt="baekjoon" />
     <img src=http://mazandi.herokuapp.com/api?handle=tykimdream&theme=warm width="285" height="140" alt="solved" />
@@ -140,9 +140,13 @@
       <a href=tykimdream target="_blank">
             <img src=https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=tykimdream/ alt="notion" />
           </a>
+      <a href=tykimdream target="[_blank](https://tykimdream.tistory.com/)">
+            <img src=https://img.shields.io/badge/Tistory-FFFFFF?style=flat&logo=Tistory&logoColor=orange&link=tykimdream/ alt="Tstory" />
+          </a>
     </div>
   </div>
-  
+
+  <!--
   <div key="7" >
     <div key=0 >
           <h3 style ="font-size : 1.5em; font-weight:700;">
@@ -151,5 +155,6 @@
           </h3>
     </div>
   </div>
+  -->
   
 </div>
