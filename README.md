@@ -140,7 +140,7 @@
       <a href=tykimdream target="_blank">
             <img src=https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=tykimdream/ alt="notion" />
           </a>
-      <a href=tykimdream target="[_blank](https://tykimdream.tistory.com/)">
+      <a href=tykimdream target="https://tykimdream.tistory.com">
             <img src=https://img.shields.io/badge/Tistory-FFFFFF?style=flat&logo=Tistory&logoColor=orange&link=tykimdream/ alt="Tstory" />
           </a>
     </div>
