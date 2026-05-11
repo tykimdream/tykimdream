@@ -15,7 +15,7 @@
     <img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=tykimdream width="280" height="140" alt="baekjoon" />
     <img src=http://mazandi.herokuapp.com/api?handle=tykimdream&theme=warm width="285" height="140" alt="solved" />
   </div>
-  
+  <!--
   <div key="2">
     <img src=https://github-readme-stats.vercel.app/api?username=tykimdream&show_icons=true&theme=onedark width="350" height="150" alt="githubStats" />
   </div>
@@ -23,6 +23,7 @@
   <div key="3">
     <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=tykimdream&theme=merko width="280" height=270 alt="MUL" />
   </div>
+  -->
   
   <div key="4">
    <h3 style ="font-size : 2em; font-weight:700;">🍀Tech Stack🍀</h3>
