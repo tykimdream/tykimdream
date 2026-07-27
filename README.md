@@ -94,9 +94,8 @@ AI 이미지 처리 SaaS tebekAI의 이미지 처리, 인증, 결제와 운영 �
 
 ---
 
-## Background
+## Training
 
-- 고려대학교 컴퓨터정보학과
 - 삼성청년SW아카데미 8기 웹 개발 트랙
 - 42 Seoul Innovation Academy
 
