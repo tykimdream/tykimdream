@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Frontend-leaning Full-stack Engineer</strong><br />
-  복잡한 업무 흐름과 운영 병목을 실제 운영 가능한 제품으로 만듭니다.
+  복잡한 업무 흐름을 제품으로 만들고, AI를 연결해 배포와 운영까지 다룹니다.
 </p>
 
 <p align="center">
@@ -11,6 +11,9 @@
   </a>
   <a href="https://pikan.dev/ko/fde">
     <img src="https://img.shields.io/badge/Portfolio-FDE%20Focus-2563EB?style=flat-square&logo=vercel&logoColor=white" alt="FDE-focused Portfolio" />
+  </a>
+  <a href="https://github.com/tykimdream/JHWorks-AI-Groupware">
+    <img src="https://img.shields.io/badge/Project-JHWorks%20AI-0F766E?style=flat-square&logo=github&logoColor=white" alt="JHWorks AI Groupware" />
   </a>
   <a href="https://game-park-yrss.vercel.app/">
     <img src="https://img.shields.io/badge/Live-Game%20Park-1A1A5E?style=flat-square&logo=googlechrome&logoColor=white" alt="Game Park" />
@@ -24,11 +27,12 @@
 
 ## About
 
-React·Next.js를 중심으로 B2B SaaS, 글로벌 커머스, Electron 운영 도구를 개발해 왔습니다. 사용자 기능부터 API, 실시간 통신, 성능, 테스트, CI/CD와 데스크톱 배포까지 제품 전 주기를 연결합니다.
+React·Next.js를 중심으로 B2B SaaS, 글로벌 커머스, Electron 운영 도구를 개발해 왔습니다. 사용자 기능부터 API, 실시간 통신, 성능, 테스트, CI/CD와 데스크톱 배포까지 제품 전 주기를 연결합니다. 개인 프로젝트 JHWorks에서는 Python·FastAPI와 정책 RAG, 확인 기반 AI 워크플로우를 구현하고 Cloud Run·Supabase 비공개 배포와 백업·복원까지 검증하고 있습니다.
 
 - 사용자가 기다리거나 운영자가 수작업하는 지점을 찾아 제품 구조로 개선합니다.
 - 복잡한 권한·상태·거래 흐름을 예측 가능한 UI와 데이터 흐름으로 구현합니다.
 - 웹뿐 아니라 Electron, Socket.IO·STOMP, NFC 하드웨어 연동과 배포 환경을 다룹니다.
+- AI는 의도 구조화와 정책 검색에 활용하고, 권한·업무 계산·데이터 변경은 서버에서 검증합니다.
 - 풀스택 제품 개발을 기반으로 고객 문제 정의와 현장 배포를 책임지는 FDE 역할까지 확장하고 있습니다.
 
 > 상세 경력은 [기본 포트폴리오](https://pikan.dev/ko), 고객 워크플로우·현장 배포 관점은 [FDE 지원형 포트폴리오](https://pikan.dev/ko/fde)에서 확인할 수 있습니다.
@@ -46,6 +50,23 @@ React·Next.js를 중심으로 B2B SaaS, 글로벌 커머스, Electron 운영 �
 | Global Product | i18n **800+ 사용처** 개편, **3개 언어·24개 페이지** 검색 노출 구조 정비 |
 | Operations | 개발자가 DB를 수정하던 NFC·메뉴 업무를 운영 담당자 **셀프서비스 도구**로 전환 |
 | Delivery | GitHub Actions, AWS S3·CloudFront 자동 업데이트, Windows 코드 서명·macOS 공증 적용 |
+
+---
+
+## Featured Project · JHWorks AI Groupware
+
+> 자연어 휴가 요청을 일정 탐색, 정책 확인, 결재 초안과 제출로 연결하는 독립 개인 프로젝트
+
+[**코드와 설계 근거 →**](https://github.com/tykimdream/JHWorks-AI-Groupware) · [**케이스 스터디 →**](https://pikan.dev/ko/projects/jhworks-ai-groupware)
+
+- Next.js·FastAPI·PostgreSQL·pgvector 기반 전자결재와 근태·연차 도메인
+- 정책 RAG와 인용 검증, Structured Output, 사용자 범위로 제한한 Tool Calling
+- AI의 의도 구조화와 서버의 권한·일정·연차 계산 분리
+- 저장과 제출 각각의 미리보기·사용자 확인, 서명 검증과 멱등 처리
+- Cloud Run·Supabase 비공개 배포, 방문자 데이터 격리와 DB 공유 요청 제한
+- 실제 PostgreSQL 경합·브라우저 CI, 합성 DB 백업과 격리 복원 대조 검증
+
+모든 조직·정책·업무 데이터는 가상 데이터입니다. 앱은 비공개 검증 중이며 공개 도메인은 준비 화면입니다. 실제 조직 도입이나 사용자 생산성 개선을 주장하지 않습니다.
 
 ---
 
@@ -71,9 +92,11 @@ React·Next.js를 중심으로 B2B SaaS, 글로벌 커머스, Electron 운영 �
 ```text
 Frontend  TypeScript · JavaScript · React · Next.js · React Query · Zustand · Tailwind CSS
 Desktop   Electron · IPC · Socket.IO · STOMP · NFC
-Backend   Node.js · NestJS · Prisma · PostgreSQL · REST API
+Backend   Node.js · NestJS · Python · FastAPI · Prisma · PostgreSQL · REST API
+AI        Policy RAG · pgvector · Structured Output · Function Calling
 Quality   Playwright · Storybook · GitHub Actions
-Delivery  AWS S3 · CloudFront · Vercel · macOS Notarization · Windows Code Signing
+Delivery  Docker · Cloud Run · Supabase · AWS S3 · CloudFront · Vercel
+Desktop   macOS Notarization · Windows Code Signing
 ```
 
 ---
@@ -111,6 +134,8 @@ AI 이미지 처리 SaaS tebekAI의 이미지 처리, 인증, 결제와 운영 �
   <a href="https://pikan.dev/ko">Portfolio</a>
   ·
   <a href="https://pikan.dev/ko/fde">FDE Focus</a>
+  ·
+  <a href="https://github.com/tykimdream/JHWorks-AI-Groupware">JHWorks AI</a>
   ·
   <a href="https://game-park-yrss.vercel.app/">Game Park</a>
   ·
