@@ -87,17 +87,66 @@ React·Next.js를 중심으로 B2B SaaS, 글로벌 커머스, Electron 운영 �
 
 ---
 
-## Stack
+## Tech Stack
 
-```text
-Frontend  TypeScript · JavaScript · React · Next.js · React Query · Zustand · Tailwind CSS
-Desktop   Electron · IPC · Socket.IO · STOMP · NFC
-Backend   Node.js · NestJS · Python · FastAPI · Prisma · PostgreSQL · REST API
-AI        Policy RAG · pgvector · Structured Output · Function Calling
-Quality   Playwright · Storybook · GitHub Actions
-Delivery  Docker · Cloud Run · Supabase · AWS S3 · CloudFront · Vercel
-Desktop   macOS Notarization · Windows Code Signing
-```
+**Frontend**
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-34495E?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-34495E?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-34495E?style=flat-square&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-34495E?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TanStack%20Query-34495E?style=flat-square" alt="TanStack Query" />
+  <img src="https://img.shields.io/badge/Zustand-34495E?style=flat-square" alt="Zustand" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-34495E?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+</p>
+
+**Desktop & Real-time**
+
+<p>
+  <img src="https://img.shields.io/badge/Electron-34495E?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
+  <img src="https://img.shields.io/badge/Socket.IO-34495E?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO" />
+  <img src="https://img.shields.io/badge/STOMP-34495E?style=flat-square" alt="STOMP" />
+  <img src="https://img.shields.io/badge/IPC-34495E?style=flat-square" alt="IPC" />
+  <img src="https://img.shields.io/badge/NFC-34495E?style=flat-square" alt="NFC" />
+</p>
+
+**Backend & Data**
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-34495E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/NestJS-34495E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Python-34495E?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-34495E?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Prisma-34495E?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/PostgreSQL-34495E?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/REST%20API-34495E?style=flat-square" alt="REST API" />
+</p>
+
+**AI**
+
+<p>
+  <img src="https://img.shields.io/badge/Policy%20RAG-34495E?style=flat-square" alt="Policy RAG" />
+  <img src="https://img.shields.io/badge/pgvector-34495E?style=flat-square" alt="pgvector" />
+  <img src="https://img.shields.io/badge/Structured%20Output-34495E?style=flat-square" alt="Structured Output" />
+  <img src="https://img.shields.io/badge/Function%20Calling-34495E?style=flat-square" alt="Function Calling" />
+</p>
+
+**Quality & Delivery**
+
+<p>
+  <img src="https://img.shields.io/badge/Playwright-34495E?style=flat-square" alt="Playwright" />
+  <img src="https://img.shields.io/badge/Storybook-34495E?style=flat-square&logo=storybook&logoColor=white" alt="Storybook" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-34495E?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Docker-34495E?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Cloud%20Run-34495E?style=flat-square&logo=googlecloud&logoColor=white" alt="Cloud Run" />
+  <img src="https://img.shields.io/badge/Supabase-34495E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/AWS%20S3-34495E?style=flat-square" alt="AWS S3" />
+  <img src="https://img.shields.io/badge/CloudFront-34495E?style=flat-square" alt="CloudFront" />
+  <img src="https://img.shields.io/badge/Vercel-34495E?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
+
+데스크톱 배포: macOS 공증 · Windows 코드 서명
 
 ---
 
