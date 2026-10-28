@@ -8,19 +8,19 @@
 
 <p align="center">
   <a href="https://pikan.dev/ko">
-    <img src="https://img.shields.io/badge/Portfolio-34495E?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://pikan.dev/ko/fde">
-    <img src="https://img.shields.io/badge/FDE%20Portfolio-34495E?style=flat-square&logo=vercel&logoColor=white" alt="FDE Portfolio" />
+    <img src="https://img.shields.io/badge/FDE%20Portfolio-6D28D9?style=flat-square&logo=vercel&logoColor=white" alt="FDE Portfolio" />
   </a>
   <a href="https://github.com/tykimdream/JHWorks-AI-Groupware">
-    <img src="https://img.shields.io/badge/JHWorks%20AI-34495E?style=flat-square&logo=github&logoColor=white" alt="JHWorks AI Groupware" />
+    <img src="https://img.shields.io/badge/JHWorks%20AI-0F766E?style=flat-square&logo=github&logoColor=white" alt="JHWorks AI Groupware" />
   </a>
   <a href="https://game-park-yrss.vercel.app/">
-    <img src="https://img.shields.io/badge/Game%20Park-34495E?style=flat-square&logo=googlechrome&logoColor=white" alt="Game Park" />
+    <img src="https://img.shields.io/badge/Game%20Park-C2410C?style=flat-square&logo=googlechrome&logoColor=white" alt="Game Park" />
   </a>
   <a href="mailto:tykimdream@gmail.com">
-    <img src="https://img.shields.io/badge/Email-34495E?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-B42338?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -93,58 +93,53 @@ React·Next.js를 중심으로 B2B SaaS, 글로벌 커머스, Electron 운영 �
 **Frontend**
 
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-34495E?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-34495E?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-34495E?style=flat-square&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-34495E?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TanStack%20Query-34495E?style=flat-square" alt="TanStack Query" />
-  <img src="https://img.shields.io/badge/Zustand-34495E?style=flat-square" alt="Zustand" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-34495E?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-A77D00?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-087E91?style=flat-square&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-222222?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TanStack%20Query-C33C54?style=flat-square" alt="TanStack Query" />
+  <img src="https://img.shields.io/badge/Zustand-8B6F47?style=flat-square" alt="Zustand" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-087E91?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 </p>
 
 **Desktop & Real-time**
 
 <p>
-  <img src="https://img.shields.io/badge/Electron-34495E?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
-  <img src="https://img.shields.io/badge/Socket.IO-34495E?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO" />
-  <img src="https://img.shields.io/badge/STOMP-34495E?style=flat-square" alt="STOMP" />
-  <img src="https://img.shields.io/badge/IPC-34495E?style=flat-square" alt="IPC" />
-  <img src="https://img.shields.io/badge/NFC-34495E?style=flat-square" alt="NFC" />
+  <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
+  <img src="https://img.shields.io/badge/Socket.IO-343434?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO" />
 </p>
+
+IPC · STOMP · NFC
 
 **Backend & Data**
 
 <p>
-  <img src="https://img.shields.io/badge/Node.js-34495E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/NestJS-34495E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/Python-34495E?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-34495E?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Prisma-34495E?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/PostgreSQL-34495E?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/REST%20API-34495E?style=flat-square" alt="REST API" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/NestJS-C92B48?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-008675?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Prisma-394E6A?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169A1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
+
+REST API
 
 **AI**
 
-<p>
-  <img src="https://img.shields.io/badge/Policy%20RAG-34495E?style=flat-square" alt="Policy RAG" />
-  <img src="https://img.shields.io/badge/pgvector-34495E?style=flat-square" alt="pgvector" />
-  <img src="https://img.shields.io/badge/Structured%20Output-34495E?style=flat-square" alt="Structured Output" />
-  <img src="https://img.shields.io/badge/Function%20Calling-34495E?style=flat-square" alt="Function Calling" />
-</p>
+Policy RAG · pgvector · Structured Output · Function Calling
 
 **Quality & Delivery**
 
 <p>
-  <img src="https://img.shields.io/badge/Playwright-34495E?style=flat-square" alt="Playwright" />
-  <img src="https://img.shields.io/badge/Storybook-34495E?style=flat-square&logo=storybook&logoColor=white" alt="Storybook" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-34495E?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Docker-34495E?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Cloud%20Run-34495E?style=flat-square&logo=googlecloud&logoColor=white" alt="Cloud Run" />
-  <img src="https://img.shields.io/badge/Supabase-34495E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/AWS%20S3-34495E?style=flat-square" alt="AWS S3" />
-  <img src="https://img.shields.io/badge/CloudFront-34495E?style=flat-square" alt="CloudFront" />
-  <img src="https://img.shields.io/badge/Vercel-34495E?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Playwright-2E8540?style=flat-square" alt="Playwright" />
+  <img src="https://img.shields.io/badge/Storybook-D93B78?style=flat-square&logo=storybook&logoColor=white" alt="Storybook" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088BD?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Docker-1676B8?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Cloud%20Run-4285C5?style=flat-square&logo=googlecloud&logoColor=white" alt="Cloud Run" />
+  <img src="https://img.shields.io/badge/Supabase-218657?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/AWS%20S3-AE5C13?style=flat-square" alt="AWS S3" />
+  <img src="https://img.shields.io/badge/CloudFront-7A4B9E?style=flat-square" alt="CloudFront" />
+  <img src="https://img.shields.io/badge/Vercel-222222?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
 데스크톱 배포: macOS 공증 · Windows 코드 서명
