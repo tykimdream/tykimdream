@@ -2,24 +2,25 @@
 
 <p align="center">
   <strong>Frontend-leaning Full-stack Engineer</strong><br />
-  복잡한 업무 흐름을 제품으로 만들고, AI를 연결해 배포와 운영까지 다룹니다.
+  React와 Next.js를 중심으로 업무에 필요한 웹과 데스크톱 제품을 만듭니다.<br />
+  개인 프로젝트에서는 AI 기능부터 배포와 운영까지 직접 구현합니다.
 </p>
 
 <p align="center">
   <a href="https://pikan.dev/ko">
-    <img src="https://img.shields.io/badge/Portfolio-Full--stack-181717?style=flat-square&logo=vercel&logoColor=white" alt="Full-stack Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-34495E?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://pikan.dev/ko/fde">
-    <img src="https://img.shields.io/badge/Portfolio-FDE%20Focus-2563EB?style=flat-square&logo=vercel&logoColor=white" alt="FDE-focused Portfolio" />
+    <img src="https://img.shields.io/badge/FDE%20Portfolio-34495E?style=flat-square&logo=vercel&logoColor=white" alt="FDE Portfolio" />
   </a>
   <a href="https://github.com/tykimdream/JHWorks-AI-Groupware">
-    <img src="https://img.shields.io/badge/Project-JHWorks%20AI-0F766E?style=flat-square&logo=github&logoColor=white" alt="JHWorks AI Groupware" />
+    <img src="https://img.shields.io/badge/JHWorks%20AI-34495E?style=flat-square&logo=github&logoColor=white" alt="JHWorks AI Groupware" />
   </a>
   <a href="https://game-park-yrss.vercel.app/">
-    <img src="https://img.shields.io/badge/Live-Game%20Park-1A1A5E?style=flat-square&logo=googlechrome&logoColor=white" alt="Game Park" />
+    <img src="https://img.shields.io/badge/Game%20Park-34495E?style=flat-square&logo=googlechrome&logoColor=white" alt="Game Park" />
   </a>
   <a href="mailto:tykimdream@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-34495E?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
